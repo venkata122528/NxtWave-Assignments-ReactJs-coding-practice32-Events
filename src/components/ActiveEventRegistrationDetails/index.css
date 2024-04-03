@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.activeEventRegistrationDetailsContainer {
+  width: 40%;
+  height: 100%;
+  padding: 60px;
+}
+
+.title {
+  color: black;
+}
+
+.initialText {
+  text-align: center;
+}
+
+.yetToRegisterImage {
+  height: 45%;
+}
+
+.registrationsClosedImage {
+  height: 40%;
+}
